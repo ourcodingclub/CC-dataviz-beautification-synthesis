@@ -1,7 +1,9 @@
 # CC-dataviz-beautification-synthesis
-Repository for Coding Club workshop at the University of Glasgow
+Repository for Coding Club workshops
 
-The workshop materials are available online here https://ourcodingclub.github.io/2020/02/02/dataviz-beautification-synthesis.html
+
+
+The workshop materials are available online here https://ourcodingclub.github.io/tutorials/dataviz-storytelling/ and an older version is here  https://ourcodingclub.github.io/2020/02/02/dataviz-beautification-synthesis.html
 
 The data for this workshop are publicly available from the LTER Data Portal https://portal.lternet.edu/nis/home.jsp and comprise the coordinates of LTER sites and plant observations from an experiment at the Niwot Ridge LTER.
 
